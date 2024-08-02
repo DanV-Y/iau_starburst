@@ -3,7 +3,7 @@ Synthetic column densities and velocity spectra of selected ions.
 
 This repo is organized as follows:
 1. `ion_column_densities`: column densities for each of the ions presented below.
-2. `ndensity_gas`: column density of the system.
+2. `ndensity_cloud`: column density of the system.
 3. `ion_spectra`: velocity spectra of each of the ions presented below.
 
 ## GUIDE TO SYNTHETIC COLUMN DENSITIES
