@@ -3,8 +3,8 @@ Synthetic column densities and velocity spectra of selected ions.
 
 This repo is organized as follows:
 1. `ion_column_densities`: column densities for each of the ions presented below.
-2. `ndensity`: column density of the system.
-3. `spectra`: velocity spectra of each of the ions presented below.
+2. `ndensity_gas`: column density of the system.
+3. `ion_spectra`: velocity spectra of each of the ions presented below.
 
 ## GUIDE TO SYNTHETIC COLUMN DENSITIES
 PNG figures for ions C II, C IV, Fe II, H I, Mg I, Mg II, N I, N V, O I, O VI, S II, Si II, Si IV.
