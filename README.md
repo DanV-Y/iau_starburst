@@ -1,6 +1,8 @@
 # iau_starburst
 Synthetic column densities and velocity spectra of selected ions.
 
+![alt text](https://github.com/DanV-Y/iau_starburst/blob/main/VillarruelD_IAU_Poster.png)
+
 This repo is organized as follows:
 1. `ion_column_densities`: column densities for each of the ions presented below.
 2. `ndensity_cloud`: column density of the system.
